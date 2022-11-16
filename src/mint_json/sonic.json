@@ -1,0 +1,47 @@
+[
+  {
+    "name": "BallSonic",
+    "description": "BallSonic is fantastic!",
+    "category": "A",
+    "powerMaxLvl": 5,
+    "accuracyMaxLvl": 5,
+    "spinMaxLvl": 5,
+    "timeMaxLvl": 5
+  },
+  {
+    "name": "BallSonic",
+    "description": "BallSonic is fantastic!",
+    "category": "B",
+    "powerMaxLvl": 5,
+    "accuracyMaxLvl": 5,
+    "spinMaxLvl": 5,
+    "timeMaxLvl": 5
+  },
+  {
+    "name": "BallSonic",
+    "description": "BallSonic is fantastic!",
+    "category": "C",
+    "powerMaxLvl": 5,
+    "accuracyMaxLvl": 5,
+    "spinMaxLvl": 5,
+    "timeMaxLvl": 5
+  },
+  {
+    "name": "BallSonic",
+    "description": "BallSonic is fantastic!",
+    "category": "D",
+    "powerMaxLvl": 5,
+    "accuracyMaxLvl": 5,
+    "spinMaxLvl": 5,
+    "timeMaxLvl": 5
+  },
+  {
+    "name": "BallSonic",
+    "description": "BallSonic is fantastic!",
+    "category": "E",
+    "powerMaxLvl": 5,
+    "accuracyMaxLvl": 5,
+    "spinMaxLvl": 5,
+    "timeMaxLvl": 5
+  }  
+]
